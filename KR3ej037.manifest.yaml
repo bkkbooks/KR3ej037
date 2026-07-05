@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej037_000.yaml, hash: 'sha256:e9dd28fb739ba70be9d81fe698ec3539a743aa6d19d77ed3c00d6221eee96ccb'}
-  - {seq: 9, filename: KR3ej037_009.yaml, hash: 'sha256:aab99657712a14638419ac83061c65c282615c1a98035a0b412324889fad2a25'}
+  - {seq: 0, filename: KR3ej037_000.yaml, hash: 'sha256:5acc2d1ce97fdf992b3e2d19719ca3e4e77dca33a1897f108dd07863ad7ce364'}
+  - {seq: 9, filename: KR3ej037_009.yaml, hash: 'sha256:e1a08ff8742c208262846a67ee1fcc69f399e80a52d539a09b7495c129e447e8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej037_000.markers.yaml, hash: 'sha256:2bfabd8a32751c8c391c86594d975bfd5e5a727e91f012779ac4786e996b2c89'}
-  - {seq: 9, role: markers, filename: assets/KR3ej037_009.markers.yaml, hash: 'sha256:b8ce4fd3b8def4b1a808fca93b6fa22390c88709061618b66c03c0f005484dc5'}
+  - {seq: 0, role: markers, filename: assets/KR3ej037_000.markers.yaml, hash: 'sha256:04f9a0c6c2e03f258194817bf5cb21484313042a716c92a4639fa9fa11d45991'}
+  - {seq: 9, role: markers, filename: assets/KR3ej037_009.markers.yaml, hash: 'sha256:7ab5411779c0a3d270e48a2c53bec05eb98f4cc396754a6c2de25f423ae96594'}
 table_of_contents:
 - ref:
     seq: 0
@@ -6143,7 +6143,4 @@ table_of_contents:
   label: 蠱疰
   type: section
   level: 3
-hash: sha256:aca2022d3e2e6c29f6d25de08bf348f2febbd6210eaff8191e7e94c2ba0b8cf1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9e04426407726c15ff2418725b7f4e3143f4a32a647432a28eb05fa12bc9433d
